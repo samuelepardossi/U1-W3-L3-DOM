@@ -9,7 +9,7 @@ body {
   height: 100%;
   background: #8e4500;
 }
-.box {
+.container {
   width: 450px;
   position: absolute;
   transform: translate(-50%, -50%);
